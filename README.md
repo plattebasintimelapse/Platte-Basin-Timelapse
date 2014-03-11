@@ -1,6 +1,21 @@
 Platte Basin Timelapse project
 =====
+# Outline
+
+1. [History of the Platte River] (#history-of-the-platte-river)
+2. [Platte Basin Timelapse project (PBT)] (#platte-basin-timelapse-project)
+3. [Platte River Basin] (#platte-river-basin)
+4. [Timelapse Cameras] (#timelapse-cameras)
+4. [Goals of PBT] (#goals-of-pbt)
+5. [The Future of PBT] (#future-of-pbt)
+
+# History of the Platte River
 The Platte River, including its North and South forks, provides precious water to major portions of three western states: Nebraska, Colorado and Wyoming. The river as it exists today is the result of geologic processes caused by retreating glaciers 600,000 to 700,000 years ago and, perhaps more importantly, the water management activities of humans that have taken place in the past century. The resulting dams, reservoirs, irrigation canals and power plants were built primarily as a way of promoting agriculture and settlement in arid areas of the basin and to provide for municipal water, power and flood control. As we are now moving further into the 21st century, the Platte River system is serving the growing demands of several competing constituencies: agriculture, municipalities, power generation, recreation and wildlife.
+
+# Platte Basin Timelapse project
+
+# Platte River Basin
+The Platte River basin encompasses 90,000 square miles...
 
 For purposes of this project, the Platte River Basin has been split into five smaller watersheds.
 
@@ -30,3 +45,8 @@ The Sandhills region is the largest sand dune ecosystem in the Western Hemispher
 ### urban development, watershed drain
 The Platte River, as it approaches the confluence with the Missouri River south of Omaha, has been through its complete journey, flowing a total of 20,275 river miles with many different straws and sizes of straws dipped into the current. Snowpack, weather and climate, and groundwater have all made contributions; irrigation, recreation, municipal use, and wildlife interest have all made withdrawals. The city of Lincoln, and increasingly West Omaha, make their final draws from well fields near Ashland Nebraska, supplying water for the growing cities. As times progress, these two cities will be increasingly tied to the river, and, at some point, may be bisected by it. It is important we know that the basin’s water unites us all; it is important we know the water’s journey because we owe it that; and it is important we protect it because it provides.
 
+# Timelapse Cameras
+We have 42 cameras place on the landscape...
+
+# The Future of PBT
+We hope to...
