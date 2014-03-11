@@ -3,7 +3,7 @@ Platte Basin Timelapse project
 # Outline
 
 1. [History of the Platte River] (#history-of-the-platte-river)
-2. [Platte Basin Timelapse project (PBT)] (#platte-basin-timelapse-project)
+2. [Platte Basin Timelapse project] (#platte-basin-timelapse-project)
 3. [Platte River Basin] (#platte-river-basin)
 4. [Timelapse Cameras] (#timelapse-cameras)
 4. [Goals of PBT] (#goals-of-pbt)
@@ -12,7 +12,7 @@ Platte Basin Timelapse project
 # History of the Platte River
 The Platte River, including its North and South forks, provides precious water to major portions of three western states: Nebraska, Colorado and Wyoming. The river as it exists today is the result of geologic processes caused by retreating glaciers 600,000 to 700,000 years ago and, perhaps more importantly, the water management activities of humans that have taken place in the past century. The resulting dams, reservoirs, irrigation canals and power plants were built primarily as a way of promoting agriculture and settlement in arid areas of the basin and to provide for municipal water, power and flood control. As we are now moving further into the 21st century, the Platte River system is serving the growing demands of several competing constituencies: agriculture, municipalities, power generation, recreation and wildlife.
 
-# Platte Basin Timelapse project (PBT)
+# Platte Basin Timelapse project
 
 # Platte River Basin
 The Platte River basin encompasses 90,000 square miles...
