@@ -15,7 +15,19 @@ The Platte River, including its North and South forks, provides precious water t
 # Platte Basin Timelapse project
 
 # Platte River Basin
-The Platte River basin encompasses 90,000 square miles...
+## Quick Facts
+### Political
+* 3 States
+* 95 Counties
+* Population of over 6 million
+* Over 500 cities
+### River Miles
+* 20,275 river miles - Stacked end to end would stretch a few thousand miles short of around the equator
+* 519 named streams but hundreds more un-named
+* Nebraska has the most river miles in continental US
+### Groundwater
+* Platte Basin covers the north portion of the vast Ogalla Aquifer
+* The Platte Basin (Nebraska) draws the most groundwater of any state
 
 For purposes of this project, the Platte River Basin has been split into five smaller watersheds.
 
