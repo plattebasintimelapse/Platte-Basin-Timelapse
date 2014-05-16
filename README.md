@@ -24,13 +24,13 @@ The Platte River, including its North and South forks, provides precious water t
 * 95 Counties
 * Population of over 6 million
 * Over 500 cities
-* 
+
 ### River Miles
 
 * 20,275 river miles - Stacked end to end would stretch a few thousand miles short of around the equator
 * 519 named streams but hundreds more un-named
 * Nebraska has the most river miles in continental US
-* 
+
 ### Groundwater
 
 * Platte Basin covers the north portion of the vast Ogalla Aquifer
